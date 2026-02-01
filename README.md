@@ -18,6 +18,10 @@ This project is a personal portfolio website developed as part of the Week 1 ass
 **Jeswin George** 3rd Year B.Tech Student | AI & Data Science
 
 
+## Live Preview
+[https://jeswin1729.github.io/I2HEP/](https://jeswin1729.github.io/I2HEP/)
+
+
 
 
 
