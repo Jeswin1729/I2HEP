@@ -17,6 +17,10 @@ This project is a personal portfolio website developed as part of the Week 1 ass
 ## Author
 **Jeswin George** 3rd Year B.Tech Student | AI & Data Science
 
+## Live Preview
+You can view the live version of this portfolio here:
+[https://jeswin1729.github.io/I2HEP/](https://jeswin1729.github.io/I2HEP/)
+
 
 ## Live Preview
 [https://jeswin1729.github.io/I2HEP/](https://jeswin1729.github.io/I2HEP/)
