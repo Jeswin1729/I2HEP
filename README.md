@@ -19,16 +19,7 @@ This project is a personal portfolio website developed as part of the Week 1 ass
 
 ## Live Preview
 You can view the live version of this portfolio here:
-[https://jeswin1729.github.io/I2HEP/](https://jeswin1729.github.io/I2HEP/)
-
-
-## Live Preview
-[https://jeswin1729.github.io/I2HEP/](https://jeswin1729.github.io/I2HEP/)
-
-
-
-
-
+[https://jeswin1729.github.io/i2hep-w01/](https://jeswin1729.github.io/i2hep-w01/)
 
 # Requirements:
 ### Assignment: 
