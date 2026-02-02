@@ -69,6 +69,13 @@ body {
   text-align: center;
 }
 
+.my-para{
+    text-align: center;
+    margin: 0 auto;          
+    max-width: 600px;        
+    line-height: 1.6;
+}
+
 .btn {
   display: inline-block;
   margin-top: 1rem;
